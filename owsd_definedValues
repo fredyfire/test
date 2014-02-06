@@ -1,0 +1,13 @@
+owsd_definedValues:[
+{
+   "idStr": "temp_air_2m_c",
+   "idInt": 6001,
+   "description": "Air Temperature in 2m (agl) in deg C",
+   "datatype": "decimal",
+   "value":  -999.999,
+   "unit": "C",
+   "references":[ 
+      "http://openwsdata.org/doc/owsd_valueDescriptions/temp_air_2m_k",
+      "http://dwd.de"
+   ]
+},
