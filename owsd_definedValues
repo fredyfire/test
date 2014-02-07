@@ -9,5 +9,5 @@ owsd_definedValues:[
    "references":[ 
       "http://openwsdata.org/doc/owsd_valueDescriptions/temp_air_2m_k",
       "http://dwd.de"
-   ]
+]
 },
